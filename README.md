@@ -1,0 +1,1 @@
+This Machine Learning use case will help you understand the based on the certain parameters like Applicant's Income,Gender,Credit History, Loan_Amount_Term whether person will be able to give approval for loan or not.
